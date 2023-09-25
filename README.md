@@ -1,5 +1,7 @@
 ### Hi there 👋
+ I am Ahmed 3 years in love with JS.
 
+ Thanks.
 <!--
 **a7medalhadi/a7medalhadi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
